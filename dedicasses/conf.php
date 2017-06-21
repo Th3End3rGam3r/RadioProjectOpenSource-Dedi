@@ -1,0 +1,3 @@
+<?php
+$passreal = "admin" ;
+?>
